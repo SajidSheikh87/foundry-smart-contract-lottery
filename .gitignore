@@ -12,3 +12,11 @@ docs/
 
 # Dotenv file
 .env
+
+broadcast/
+lib/
+
+# Added by cargo
+
+/target
+
